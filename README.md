@@ -1,4 +1,4 @@
-## Olá meu nome é Abdon França, estudante de Técnologia.
+## Olá meu nome é Abdon França, estudante de Tecnologia.
   
 <div>
   
